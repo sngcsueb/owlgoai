@@ -1,4 +1,4 @@
-# Hinode - Template
+# Owlgoai - Using Hinode Template
 
 <!-- Tagline -->
 <p align="center">
