@@ -1,5 +1,5 @@
 ---
-title: Welcome to Hinode!
+title: Welcome to Owl go Ai!
 thumbnail:
     url: /img/sunrise.jpg
     author: Harris Vo
@@ -8,6 +8,6 @@ thumbnail:
     originName: Unsplash
 ---
 
-A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+An AI Agent for colleges.
 
 {{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}}
