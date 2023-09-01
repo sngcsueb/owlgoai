@@ -8,6 +8,6 @@ thumbnail:
     originName: Unsplash
 ---
 
-An AI Agent for colleges.
+An AI Agent for students and colleges.
 
 {{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}}
