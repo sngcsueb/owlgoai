@@ -1,7 +1,7 @@
 ---
 title: Welcome to Owl go Ai!
 thumbnail:
-    url: /img/sunrise.jpg
+    url: /img/Sunrise-Ardenwood.jpeg
     author: Harris Vo
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
