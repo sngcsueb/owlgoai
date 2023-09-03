@@ -1,11 +1,11 @@
 title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+copyright = "Copyright © 2023 http://www.owlgoai.com."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://www.owlgoai.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
