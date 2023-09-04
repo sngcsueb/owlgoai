@@ -1,5 +1,5 @@
 ---
-title: Welcome to Owl go Ai!
+title: Welcome to Owl go AI!
 thumbnail:
     url: /img/Sunrise-Ardenwood.jpeg
     author: Harris Vo
